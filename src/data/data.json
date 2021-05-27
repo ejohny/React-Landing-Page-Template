@@ -1,136 +1,69 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "ACE RAIL",
+        "paragraph": "ACE RAIL is a mobile app that provide easy access to Live Train schedules, Live trains location on a Map, directions to ACE Station using google or apple map and Great america shuttle schedules."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "The Altamont Corridor Express (also known as ACE) is a commuter rail service in California, connecting Stockton and San Jose. Our app helps users to get live details about all active ACE trains. P.S. We are not affiliated to ACE or San Joaquin Regional Rail Commission (SJRRC).",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Live Train Status",
+            "Live Map",
+            "Train Station Details"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Train Schedule Details",
+            "Great America Shuttle Schedule",
+            "Preferred Stations"
         ]
     },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
-    ],
     "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Better than the ACE Website This app cuts out the distractions from the ACE site and gives you the train status, and the live system map in an easy to read format. It also makes it easy to find the ACE train schedules using a couple of simple clicks.\"",
+            "name": "ACE_VET",
+            "reviewSource": "App Store"
         },
         {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Unlike the official ACE app or website, this actually tells you if the train is on time or late, and by how much, in a view that ACE used to provide but no longer does. extremely helpful! Thank you developer!\"",
+            "name": "Weiyi Guo",
+            "reviewSource": "Play Store"
         },
         {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Very nice! So much easier to read than ACE's own app. Several passengers, and ACE train staff, use this app. No more need for glasses to read train status :-)\"",
+            "name": "A Google user",
+            "reviewSource": "Play Store"
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Elwin Johny",
+            "job": "Developer",
+            "email": "elwinmobileapps@gmail.com"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "email": "elwinmobileapps@gmail.com",
+        "facebook": "https://www.facebook.com/EMobileApps-580704569024890/",
+        "twitter": "https://twitter.com/AppsElwin"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-subway",
+            "title": "Live Train Status",
+            "text": "Shows the current status of each Train.(On-time, X min Late, X min Early) and the Live expected arrival time for each train to the next 4 stations."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-map-marker",
+            "title": "Live Map",
+            "text": "Shows the Live location of each train on a map."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-calendar",
+            "title": "Train Stations & Schedules",
+            "text": "Single click driving direction to your ACE station, works with google and apple maps. Arrival and Departure Schedule for each trains"
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-bookmark",
+            "title": "Favorite stations",
+            "text": "Shows the ETA for the next train to your favorite Station. Has the option to choose multiple train stations."
         }
     ]
 }

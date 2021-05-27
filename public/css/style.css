@@ -433,7 +433,7 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
-	padding: 100px 0 60px 0;
+	padding: 0 0 30px 0;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	color: rgba(255,255,255,.75);
 }
@@ -534,8 +534,6 @@ color: #777;
 	margin-right: 10px;
 }
 #contact .social {
-	border-top: 1px solid rgba(255,255,255,0.15);
-	padding-top: 50px;
 	margin-top: 50px;
 	text-align: center;
 }
@@ -577,4 +575,26 @@ color: #777;
 #about img {
 	margin: 50px 0;
 }
+}
+
+.flex-column {
+	display: flex;
+	flex-direction: column;
+}
+
+.flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.header-image {
+	width:80px;
+	height:80px;
+	margin-top: -14px;
+}
+
+.app-store-image {
+	width:500px;
+	height:180px;
 }
